@@ -1,0 +1,8 @@
+class HolaQuyen
+
+  def self.hi
+    puts "Hello world!"
+  end  
+
+end
+  require 'hola_quyen/translator.rb'
